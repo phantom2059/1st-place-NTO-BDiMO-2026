@@ -410,5 +410,4 @@ def main():
     log(f"Saved {len(result)} predictions, total {time.time()-t0:.1f}s")
 
 
-if __name__ == '__main__':
-    main()
+main()
