@@ -1,5 +1,5 @@
 """
-BDiMO 2026 — 1st Place Solution (Inference)
+BDiMO 2026 - 1st Place Solution (Inference)
 Public LB: 76.36%
 
 Pipeline:
